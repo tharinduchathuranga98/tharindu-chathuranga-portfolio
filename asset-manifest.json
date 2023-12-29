@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tharindu-chathuranga-portfolio/static/css/main.a6156fb2.css",
+    "main.js": "/tharindu-chathuranga-portfolio/static/js/main.bde3890d.js",
+    "static/media/me.png": "/tharindu-chathuranga-portfolio/static/media/me.42a58d69336368f3dd41.png",
+    "static/media/cv.pdf": "/tharindu-chathuranga-portfolio/static/media/cv.4c4d65d5dc41d68c3b7a.pdf",
+    "static/media/me-about.jpg": "/tharindu-chathuranga-portfolio/static/media/me-about.aa79e321da6edaaddf5e.jpg",
+    "index.html": "/tharindu-chathuranga-portfolio/index.html",
+    "main.a6156fb2.css.map": "/tharindu-chathuranga-portfolio/static/css/main.a6156fb2.css.map",
+    "main.bde3890d.js.map": "/tharindu-chathuranga-portfolio/static/js/main.bde3890d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6156fb2.css",
+    "static/js/main.bde3890d.js"
+  ]
+}
