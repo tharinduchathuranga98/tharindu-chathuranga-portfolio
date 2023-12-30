@@ -43,7 +43,7 @@ const Contact = () => {
             <SiFiverr  className='contact_option-icon'/>
             <h4>Fiverr</h4>
             <h5>Tharindu</h5>
-            <a href="https://www.fiverr.com/marimax110?up_rollout=true" target='_blank'>Send a message</a>
+            <a href="https://www.fiverr.com/marimax110" target='_blank'>Send a message</a>
           </article>
         
           
